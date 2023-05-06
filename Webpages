@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width. inital-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+    <title>Responsive Portal</title>
+</head>
+<body>
+
+
+
+	<div class="sidebar">
+		<h1 class="logo">CAFD Portal</h1>
+		<div class="menus">
+		<a href="#"><ion-icon name="home-outline"></ion-icon> Home</a>
+        <a href="#"><ion-icon name="newspaper-outline"></ion-icon>Applications</a>
+        <a href="#"><ion-icon name="stats-chart-outline"></ion-icon>Performance</a>
+        <a href="#"><ion-icon name="bookmarks-outline"></ion-icon>Responses</a>
+        <a href="#"><ion-icon name="mail-unread-outline"></ion-icon>Messages</a>
+        <a href="#"><ion-icon name="settings-outline"></ion-icon>Settings</a>
+    </div>
+        <div class="profile">
+            <img class="profile-img" src="CAFD LOGO.jpg">
+            <div class="profile-name">
+                <h4>2F-05 | Mark</h4>
+                <p>Low Command</p>
+<a href="#"><ion-icon name="settings-outline"></ion-icon>Settings</a>
+<a href="file:///C:/Users/owain/OneDrive/Desktop/webpage/website/website/login/login.html">Login</a>
+            </div>
+
+        </div>
+    </div>
+<div class="main">
+    <div class="main-header">
+        <ion-icon class="menu-bar" name="menu-outline"></ion-icon>
+        <div class="search">
+            <input type="text" placeholder="Search your fellow colleagues here....">
+            <button class="btn-search"><ion-icon name="search-outline"></ion-icon></button>
+    </div>
+ </div>
+    <div class="filter-wrapper">
+        <p>Top calfire suggestions</p>
+        <div class="filter">
+        <button class="btn-filter">New stretcher</button>
+        <button class="btn-filter">New fleet</button>
+        <button class="btn-filter">New fire stations</button>
+        <button class="btn-filter">New scripts</button>
+        <button class="btn-filter">New uniforms</button>
+        </div>
+    </div>
+    </div>
+    <div class="wrapper">
+        <div class="card">
+            <div class="card-left blue-bg">
+                <img src="CAFD LOGO.jpg">
+        </div>
+
+       
+        <div class="card-center">
+            <h3>CalFire</h3>
+            <p class="card-detail"><ion-icon name=""></ion-icon>.</p>
+            <div class="card-loc">
+                <div class="card-sub">
+                <p><ion-icon name="today-outline"></ion-icon> Posted 24H ago</p>
+                <p><ion-icon name="hourglass-outline"></ion-icon> Full time position</p>
+                <p><ion-icon name="people-outline"></ion-icon> 27 Applicants</p>
+                </div>
+                </div>
+            </div>
+        </div>
+ <div class="card">
+            <div class="card-left blue-bg">
+                <img src="CAFD LOGO.jpg">
+        </div>
+       
+        <div class="card-center">
+            <h3>CalFire</h3>
+            <p class="card-detail"><ion-icon name=""></ion-icon>.</p>
+            <div class="card-loc">
+                <div class="card-sub">
+                <p><ion-icon name="today-outline"></ion-icon> Posted 24H ago</p>
+                <p><ion-icon name="hourglass-outline"></ion-icon> Full time position</p>
+                <p><ion-icon name="people-outline"></ion-icon> 27 Applicants</p>
+                </div>
+                </div>
+            </div>
+        </div> <div class="card">
+            <div class="card-left blue-bg">
+                <img src="CAFD LOGO.jpg">
+        </div>
+       
+        <div class="card-center">
+            <h3>CalFire</h3>
+            <p class="card-detail"><ion-icon name=""></ion-icon>.</p>
+            <div class="card-loc">
+                <div class="card-sub">
+                <p><ion-icon name="today-outline"></ion-icon> Posted 24H ago</p>
+                <p><ion-icon name="hourglass-outline"></ion-icon> Full time position</p>
+                <p><ion-icon name="people-outline"></ion-icon> 27 Applicants</p>
+                </div>
+                </div>
+            </div>
+        </div> <div class="card">
+            <div class="card-left blue-bg">
+                <img src="CAFD LOGO.jpg">
+        </div>
+       
+        <div class="card-center">
+            <h3>CalFire</h3>
+            <p class="card-detail"><ion-icon name=""></ion-icon>.</p>
+            <div class="card-loc">
+                <div class="card-sub">
+                <p><ion-icon name="today-outline"></ion-icon> Posted 24H ago</p>
+                <p><ion-icon name="hourglass-outline"></ion-icon> Full time position</p>
+                <p><ion-icon name="people-outline"></ion-icon> 27 Applicants</p>
+                </div>
+                </div>
+            </div>
+        </div>
+ <div class="card">
+            <div class="card-left blue-bg">
+                <img src="CAFD LOGO.jpg">
+        </div>
+       
+        <div class="card-center">
+            <h3>CalFire</h3>
+            <p class="card-detail"><ion-icon name=""></ion-icon>.</p>
+            <div class="card-loc">
+                <div class="card-sub">
+                <p><ion-icon name="today-outline"></ion-icon> Posted 24H ago</p>
+                <p><ion-icon name="hourglass-outline"></ion-icon> Full time position</p>
+                <p><ion-icon name="people-outline"></ion-icon> 27 Applicants</p>
+                </div>
+                </div>
+            </div>
+        </div>
+<h1 class="logo">Apply Today by clicking on your selected application above!</h1>
+
+</body>
+<script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="app.js"></script>
+</html>
